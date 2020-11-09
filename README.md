@@ -1,2 +1,2 @@
-# Fraction-Adder
-Program for the mathematical addition of simple fractions
+# Fraction Adder
+Program for the mathematical addition of simple fractions.
